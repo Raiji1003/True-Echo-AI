@@ -7,3 +7,9 @@ transformers
 torch
 torchaudio
 scikit-learn
+pandas
+numpy
+nltk
+imbalanced-learn
+seaborn
+matplotlib
