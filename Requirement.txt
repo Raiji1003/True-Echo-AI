@@ -1,0 +1,9 @@
+streamlit
+pyngrok
+librosa
+soundfile
+joblib
+transformers
+torch
+torchaudio
+scikit-learn
