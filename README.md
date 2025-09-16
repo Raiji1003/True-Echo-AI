@@ -4,8 +4,11 @@
 
 Key Fraud Risks
 Voice Spoofing & Deepfakes – AI can copy someone’s voice so well that it fools security checks and even customer service agents.
+
 Advanced Phishing Attacks – Fake emails look very real and are carefully designed to trick people into sharing private information.
+
 Financial Risk – Just one fake impersonation can cause big money losses and harm the company’s reputation.
+
 Multi-Channel Attacks – Scammers use more than one method (like email + phone call) together, making them harder to catch if systems don’t share information.
 
 This project consists of 3 modules to detect fraudulent content across three communication mediums:
