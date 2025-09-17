@@ -34,3 +34,16 @@ The three main modules are as follows:
   Input: Email body, subject line, sender domain
   Model: SVM classifier with TF-IDF vectorization
   Output: Spam/ Ham
+
+File Structurre
+.
+├── README.md                   # Project documentation  
+├── Requirement.txt             # Dependencies and packages  
+├── app.py                      # Main application script (integration entry point)  
+├── email_pipeline.pkl          # Pre-trained email phishing detection pipeline  
+├── True_Echo_AI.ipynb          # Notebook for Audio Spam Detection (Wav2Vec2)  
+├── wave2vec2 (2).ipynb         # Another notebook for audio classification  
+├── sms_spam_p1_mufg.ipynb      # Notebook for SMS spam detection (TF-IDF + SVM)  
+├── mufg_email (1).ipynb        # Notebook for Email phishing detection (TF-IDF + SVM)  
+├── sms_mufg_combined.zip       # SMS dataset (compressed)  
+├── True Echo AI (screencast).mp4 # Demo video of project  
