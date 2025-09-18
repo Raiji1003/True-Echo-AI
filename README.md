@@ -67,15 +67,6 @@ This project was built to tackle **voice spoofing, phishing emails, and SMS scam
 
 ---
 
-##Screenshots
-🎤 Audio Spam Detection
-<img width="595" height="582" alt="Screenshot 2025-09-18 232405" src="https://github.com/user-attachments/assets/9c001530-9b98-4345-ab70-0ff490438ef5" />
-💬 SMS Spam Detection 
-<img width="753" height="697" alt="Screenshot 2025-09-18 232527" src="https://github.com/user-attachments/assets/d6d79a99-1e6a-4fd4-83e9-1c29fa826c3f" />
-📩 Email Phishing Detection
-![WhatsApp Image 2025-09-16 at 21 38 59_8edeb241](https://github.com/user-attachments/assets/9ff3904a-79f0-4ef9-9244-da1b276ba10b)
-![WhatsApp Image 2025-09-16 at 21 39 16_819860f3](https://github.com/user-attachments/assets/cc621cb1-d3c2-4445-8ab2-5e819d4126c8)
-
 ## 🚀 Getting Started  
 
 ### 📌 Prerequisites  
