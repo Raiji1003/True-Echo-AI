@@ -1,12 +1,5 @@
 # 🔒 True-Echo-AI – Multimodal Fraud Detection System  
 
-![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-Backend-lightgrey?logo=flask&logoColor=black)  
-![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-yellow)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?logo=scikit-learn&logoColor=white)  
-![Kaggle](https://img.shields.io/badge/Kaggle-Datasets-blue?logo=kaggle&logoColor=white)  
-![GitHub](https://img.shields.io/badge/Version-Control-black?logo=github)  
-
 A robust AI-powered system that detects fraudulent activities across **Audio, SMS, and Email communications**.  
 This project was built to tackle **voice spoofing, phishing emails, and SMS scams** using advanced AI/ML models.  
 
@@ -61,15 +54,15 @@ This project was built to tackle **voice spoofing, phishing emails, and SMS scam
 
 ## 📂 File Structure  
 
-├── README.md # Project documentation
-├── Requirement.txt # Dependencies and packages
-├── app.py # Main application script (integration entry point)
-├── email_pipeline.pkl # Pre-trained email phishing detection pipeline
-├── True_Echo_AI.ipynb # Notebook for Audio Spam Detection (Wav2Vec2)
-├── wave2vec2 (2).ipynb # Another notebook for audio classification
-├── sms_spam_p1_mufg.ipynb # Notebook for SMS spam detection (TF-IDF + SVM)
-├── mufg_email (1).ipynb # Notebook for Email phishing detection (TF-IDF + SVM)
-├── sms_mufg_combined.zip # SMS dataset (compressed)
+├── README.md # Project documentation 
+├── Requirement.txt # Dependencies and packages 
+├── app.py # Main application script (integration entry point) 
+├── email_pipeline.pkl # Pre-trained email phishing detection pipeline 
+├── True_Echo_AI.ipynb # Notebook for Audio Spam Detection (Wav2Vec2) 
+├── wave2vec2 (2).ipynb # Another notebook for audio classification 
+├── sms_spam_p1_mufg.ipynb # Notebook for SMS spam detection (TF-IDF + SVM) 
+├── mufg_email (1).ipynb # Notebook for Email phishing detection (TF-IDF + SVM) 
+├── sms_mufg_combined.zip # SMS dataset (compressed) 
 ├── True Echo AI (screencast).mp4 # Demo video of project
 
 
@@ -98,3 +91,10 @@ Install required dependencies:
 ```bash
 pip install -r Requirement.txt
 flask run
+
+## Screenshots
+<img width="595" height="582" alt="Screenshot 2025-09-18 232405" src="https://github.com/user-attachments/assets/e7c594c3-5132-4953-a5e9-c0f0ea0759fc" />
+<img width="753" height="697" alt="Screenshot 2025-09-18 232527" src="https://github.com/user-attachments/assets/dcae38c0-2043-4dfa-b9d0-d345acb05083" />
+![WhatsApp Image 2025-09-16 at 21 38 59_9d9a4288](https://github.com/user-attachments/assets/fe5b4cf1-b346-4117-ba99-695deeead56f)
+![WhatsApp Image 2025-09-16 at 21 39 16_9ebdd1d5](https://github.com/user-attachments/assets/447cd2d3-21e3-40f6-9f81-50bf31f07497)
+
